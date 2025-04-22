@@ -259,7 +259,7 @@ nav {
 .about__image {
   position: relative;
   isolation: isolate;
-  max-width: 400px;
+  max-width: 350px;
   margin: auto;
 }
 
@@ -271,7 +271,7 @@ nav {
 .about__bg-1,
 .about__bg-2 {
   position: absolute;
-  max-width: 150px;
+  max-width: 120px;
   z-index: -1;
   opacity: 0.5;
 }
